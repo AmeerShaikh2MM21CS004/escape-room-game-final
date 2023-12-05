@@ -2,13 +2,13 @@ const canvas = document.getElementById('game-canvas');
 const ctx = canvas.getContext('2d');
 
 const birdImage = new Image();
-birdImage.src = 'C:\\internship project(WEB ZILLA)\\home page\\PngItem_2298921.png';
+birdImage.src = 'PngItem_2298921.png';
 
 const pipeImage = new Image();
-pipeImage.src = 'C:\\internship project(WEB ZILLA)\\home page\\NicePng_pipes-png_388476.png';
+pipeImage.src = 'NicePng_pipes-png_388476.png';
 
 const backgroundImage = new Image();
-backgroundImage.src = 'C:\\internship project(WEB ZILLA)\\home page\\4094501.jpg';
+backgroundImage.src = '4094501.jpg';
 
 const bird = {
     x: 100,

@@ -5,14 +5,14 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: url('C:\\internship project(WEB ZILLA)\\home page\\4094501.jpg') no-repeat center center fixed;
+    background: url('4094501.jpg') no-repeat center center fixed;
     background-size: cover;
     backdrop-filter: blur(10px); /* Add blur effect */
 }
 
 #game-canvas {
     border: 2px solid #000;
-    background: url('C:\\internship project(WEB ZILLA)\\home page\\4094501.jpg') no-repeat center center fixed;
+    background: url('4094501.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
